@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Nothing+You+Could+Do&family=Rock+Salt&family=Sedgwick+Ave&display=swap');
+
+.navy {
+    color: navy;
+	}
+
+.light {
+    color:burlywood;
+	}
+
+.peach {
+	color: salmon;
+	}
+	
+.peach2 {
+	color: brown;
+	font-size: 3em;
+	}
+
+.orange {
+	color: orange;
+	}
+	
+.purple {
+	color: lavender;
+	}
+
+.a {
+    text-decoration: none;
+	}
+
+.shadow1 {
+	text-shadow: 2px 2px burlywood;
+	}
+	
+.shadow2 {
+	text-shadow: 2px 2px gray;
+	}
+
+.f1 {
+    font-family: 'Covered By Your Grace', cursive;
+}
+
+.f3 {
+    font-family: 'Nothing You Could Do', cursive;
+    padding: 1em 1em;
+}
+
+.f2 {
+    font-family: 'Sedgwick Ave', cursive;
+	font-size: 3em;
+	color: white;
+}
+
+.bodyimg {
+    background-image: url(/images/palette.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.loginimg {
+    background-image: url(/images/paintdrops.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.searchimg {
+    background-image: url(/images/paint-brush.jpg);
+    background-position: center;
+    background-size: 600px 500px;
+    background-repeat: no-repeat;
+}
+.newworkimg {
+    width: 250px;
+    height: 400px;
+}
+
+.viewworkimg {
+    background-image: url(/images/bench.png);
+    background-position: center;
+    background-size: 500px 500px;
+    background-repeat: no-repeat;
+}
+
+.txtsize {
+	font-size: 2em;
+	text-align:right;
+	}
+	
+.info {
+	font-size: 2em;
+	color: white;
+	}
+	
+.nav {
+	background-image: linear-gradient(to right, brown, white);
+	}
+	
+.width {
+	width: 60%;
+	margin: 0px auto;
+	}
+	
+.height {
+	min-height: 325px;
+	} 
+	
+.tablebg {
+	background-color: white;
+	}
